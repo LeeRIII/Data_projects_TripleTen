@@ -1,12 +1,8 @@
-# File Title: nyc.airbnb.data_v1.3.29_2023.10.21
+# File Title: Copy of nyc_airbnb_data v3
 
-This was my first project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Advanced Spreadsheets.
+First project in the TripleTen Business Intelligence Analytics Program. Independent project designed to showcase skills learned for Advanced Spreadsheets.
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project1Pic.png" alt="First Sheet of Project">](https://docs.google.com/spreadsheets/d/1-BA2THPUa9GJlQce1T_tnS487xvcGe3LJv34cnminzI/edit?usp=sharing)
-
-
-Loom Video Overview can be found <a href='https://www.loom.com/share/ce9c49cdaee940119543cc38f0d34c09?sid=d68d5288-388a-472f-b182-8ce23b8cb7ec' target=_blank><u>here</u>.</a>
-Projects Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1-BA2THPUa9GJlQce1T_tnS487xvcGe3LJv34cnminzI/edit?usp=sharing' target=_blank><u>here</u>.</a>
+Projects Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1vZ459nm71YDjYJJ18hkDLGQZ1QpULHnZ4uHlkKYABck/edit?usp=sharing' target=_blank><u>here</u>.</a>
 
 ### Table of Contents
 | File Number | Title | Description |
