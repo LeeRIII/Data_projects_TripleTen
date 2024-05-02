@@ -1,0 +1,21 @@
+Requirements:
+
+Part 1 - Explore and Filter Data
+Prepare tabs for documentation.
+Organize the spreadsheet.
+Filter listings.
+
+Part 2 - Which type of properties should be targeted?
+Clean data - capitalization discrepancies, spacing; Create new column with standardized capitalization and spacing.
+Build pivot tables to determine top 10 most popular neighborhoods for vacation rentals.
+Build pivot tables to determine the number of bedrooms that are most popular
+Cross-reference bedroom popularity with neighborhood popularity.
+
+Part 3 - Calculating occupancy
+Clean and aggregate data.
+Find popular occupancy by day of week for each listing.
+
+Part 4 - Estimate revenue for an investment property
+Filter listings by high review ratings, actively occupied over last 12 months, NOT super luxury OR extremely low priced.
+Calculate average price and occupancy rate.
+Calculate revenue using daily price*Occupancy %*365 Days. 
