@@ -39,11 +39,8 @@ The data was one Google spreadsheet file provided by TripleTen:
 - Reviews reflective of verified stays, more reviewed = more stays	
 
 ### Process:
-I first explored, filtered, and cleaned the data.
-Then I created aggregations and pivot tables to determine the type of properties that should be targeted.
-I performed calculations, pivot tables and charts to determine occupancy and estimated revenue.
-I went a step further and chose to do an optional analysis to determine what attributes are important for a vacation rental.
-Lastly I finalized formatting for the client's readability.
+- Created aggregations and pivot tables to find popular neighborhoods, popular rental size (bedroom), highest occupancy by day of the week.
+- Pivot tables Advanced Excel/G Sheets
 
 ### Findings:
 1. Top 10 attractive neighborhoods for vacation rentals are as follows: Hell's Kitchen, Harlem, Midtown, Upper West Side, Chelsea, East Village, East Harlem, West Village, Nolita, Upper East Side			
