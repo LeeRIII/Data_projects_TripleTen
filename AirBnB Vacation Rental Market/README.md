@@ -32,12 +32,11 @@ The data was one Google spreadsheet file provided by TripleTen:
 - Purpose was to determine what types of properties should be targeted for the vacation rental market, in the Manhattan borough of New York City based on available AirBnB data.
 
 ### Assumptions:
-- Airbnb rentals are equivalent to the general vacation rental statistics.	
-- Rental activity is assumed through the number of reviews in the last 12 months.	
-- Properties with no reviews in the last 12 months were considered inactive	
-- Super luxury listings with prices greater than $1,956.00 were filtered from the analysis, 1% outlier	
-- Extremely low-priced listings of less than $82 were filtered from the analysis, 1% outlier	
-- Superhosts properties reflect prices of properties the investor will purchase	
+- Vacation rental listings are identified as having a minimum night stay of ranging from 1-7	
+- Data reflects listings held by superhosts reviewd in the last 12 months (from September 7, 2022)	
+- Listings were occupied for 87% of the calendar year
+- 1 bedroom listings were most popular amongst all Hells Kitchen bedroom types
+- Reviews reflective of verified stays, more reviewed = more stays	
 
 ### Process:
 I first explored, filtered, and cleaned the data.
@@ -47,11 +46,6 @@ I went a step further and chose to do an optional analysis to determine what att
 Lastly I finalized formatting for the client's readability.
 
 ### Findings:
-1. The top 10 attractive neighborhoods for vacation rentals are as follows: Hell's Kitchen, Lower East Side, Harlem, Midtown, Upper West Side, Chelsea, East Village, East Harlem, West Village, Nolita.			
-2. The most popular vacation rental size is 1 bedroom overall. Lower East Side has the largest 1 bedroom demand. 2 bedrooms in Hell's Kitchen and Studio’s in Midtown are also desirable.			
-3. Saturday's have the highest occupancy rate out of the week.			
-4. Estimated revenue for similar properties to recommendations is $79,945.70.			
-5. Superhosts can charge higher prices, statistically significant.			
-6. Instant bookings do have higher occupancy rates, statistically significant.			
-7. Building with doormen get better reviews, statistically significant.			
-8. Hosts can charge higher prices for higher review ratings.
+1. Top 10 attractive neighborhoods for vacation rentals are as follows: Hell's Kitchen, Harlem, Midtown, Upper West Side, Chelsea, East Village, East Harlem, West Village, Nolita, Upper East Side			
+2. Friday and Saturday had highest occupancy rate
+3. Average Revnue for 1 bedroom in Hell's Kitchen is $88,920.92
