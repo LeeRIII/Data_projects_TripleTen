@@ -1,11 +1,8 @@
-# File Title: E-Commerce_Business_Analysis
+# File Title: Copy of Copy of Business Analytics Project v1.xlsx
 
-This was the third project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned in Business Analytics. The purpose was to analyze the companies' raw transaction logs and turn the event logs into business metrics.
+The third project that I worked on in the TripleTen Business Intelligence Analytics Program. The purpose was to analyze the companies' raw transaction logs and turn the event logs into business metrics.
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project3Pic.png" alt="First Sheet of Project**">](https://docs.google.com/spreadsheets/d/1vkoLxZqsaqfEHdvRRf5ifXiv42zfPA01v6DPhiN9O_k/edit?usp=sharing)
-
-Loom Video Overview can be found <a href='https://www.loom.com/share/2e58fde1699848d2b12a2e3284e7867e?sid=0332f23c-bff4-4451-ab6b-8e20544076bd' target=_blank><u>here</u>.</a>
-Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1vkoLxZqsaqfEHdvRRf5ifXiv42zfPA01v6DPhiN9O_k/edit?usp=sharing' target=_blank><u>here</u>.</a>
+Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/10PqOonkWAtGhEy_ziaRHj7QoUS7eeK3G_PTsVhaDjxg/edit?usp=sharing' target=_blank><u>here</u>.</a>
 
 ### Table of Contents
 | File Number | Title | Description |
