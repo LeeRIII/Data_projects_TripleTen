@@ -11,7 +11,7 @@ Tableau Public link <a href='https://public.tableau.com/views/HNATTCP24/Home?:la
 | 1 | [HNA TT CP '24.twbx](https://public.tableau.com/views/HNATTCP24/Home?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | The Tableau Workbook link with all interactive Visualizations, Dashboards, and Story. |
 | 2 | [spotify-2023.csv](https://docs.google.com/spreadsheets/d/1fQdVitg5sCaTi4TOxTEkHb0oV7iovSaft9R-tJsa3J4/edit?usp=sharing) | Original spreadsheet file in csv format provided at the start of the competition. |
 | 4 | README.md | This current page, with all relevant information about the project, just past the Table of contents. |
-| 5 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Animation%20Movies/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen and The Pudding. |
+| 5 | [Requirements.txt](https://github.com/LeeRIII/Data_projects_TripleTen/blob/main/CodePudding%20March%20'23/Requirements.txt) | A .txt file with the provided project requirements as provided by TripleTen and The Pudding. |
 
 | Section Title | Description |
 | ----------- |----------- |
@@ -24,60 +24,13 @@ Tableau Public link <a href='https://public.tableau.com/views/HNATTCP24/Home?:la
 
 ### Data
 The data was one .csv file provided by TripleTen
-- `'Animation_Movies.csv'`: Original data. 1 Table with 23 Fields. Fields kept after data cleaning:
-    - `'id'`: Unique Identifier
-    - `'title'`: Movie Title
-    - `'vote_average'`: Average voter score
-    - `'vote_count'`: Total number of votes
-    - `'status'`: Boolean stat- released for viewing or still in production
-    - `'release_date'`: The date the movie was released to the public
-    - `'revenue'`: Money earned after release
-    - `'runtime'`: Length of movie in time
-    - `'adult'`: Boolean stat to tag if it was made for adults
-    - `'budget'`: Money reserved for the creation of the movie
-    - `'original_language'`: Primary language spoken upon first release
-    - `'popularity'`: Numerical value comparing demand for a movie compared to other movies
-    - `'genres'`: List of all genre tags for each movie
-    - `'production_companies'`: List of all production companies involved in each movie
-    - `'production_countries'`: Country of origin
+- `'spotify-2023.csv'`: Original data. 1 Table with 23 Fields. Fields kept after data cleaning:
 
 ### Description:
-- 1 Tableau Story made from 6 Dashboards and 14 visuals
+- 1 Tableau Story made from 9 Dashboards and 11 visuals and 8 KPIs
 - Includes parameters, calculations, sets, and a final presentation of the Tableau Story.
 
-### Assumptions:
-- The main genre was the 1st one listed, analysis was based on the main genre.
-- Missing values or inconsistencies in the data are minimal and can be ignored.
-- The provided data was clean when provided to us.
-
-### Process:
-First, We held a Google Meet to organize our team details and technical details on how to best seemlessly share the work between time zones and workstations.
-Then, team member Michelle explored, filtered, and cleaned the data through Jupyter Notebook via Python.
-Next, we took turns passing the Tableau Workbook between members via Discord Chat based on availability. Keeping in constant connection and collaboration about our live edits through the same chat.
-Simultaneously, preparing the presentation requirements, outline, and details in the same collaborative method via Discord and .txt file.
-Lastly, We recorded our assigned portions of the presentation and used video manipulation to make it one seamless video presentation.
-
 ### Findings:
-- The United States produces the most animated movies, but production is happening far and wide across the globe.
-- The most produced genre was Comedy until the 1970s when Family films took over. Except for a brief period at the beginning of the pandemic when Documentaries were Top.
-- English the primary language of animated movies.
-- Original Language had a positive correlation with film runtime.
-- Animated movies have been steadily getting longer over time until the 2008 recession, and have steadily declined since.
-- Pixar, when in conjunction with Disney had the highest revenue at 7.9 Billion.
-- Frozen 2 made the highest revenue at 1.45 Billion.
-- There is a direct correlation between budget size and revenue.
-- Sequels bring more money in than their original titles.
-- ONF | NFB has the most produced films yet does not reach near the top in revenue.
-- Sleeping Beauty had the highest average vote scores.
-- Elemental had the highest Popularity scores
-
-### Results:
-Collaborative Brainstorming: I effectively worked with a team to identify interesting stories within the provided datasets.
-Data-Driven Storytelling: I focused on insights supported by data, ensuring clear and ethical use of information.
-Visual Storytelling: I created unique data visualizations that complemented the narrative and communicated key points effectively.
-Presentation Skills: I participated in crafting a clear and concise presentation that showcased our project's findings within a limited timeframe.
-
-This project highlights my strengths in:
-Data Analysis & Exploration (understanding and manipulating data)
-Data Visualization (creating clear and informative visuals)
-Communication & Teamwork (conveying insights and collaborating effectively)
+- The Weeknd was the most popular streamed Artist with 14.1 billion streams, including the most streamed track, Blinding Lights, at 3.7 billion streams
+- Ed Sheeran had the most tracks in the top 40 streamed tracks with 4.
+- Taylor Swift had the most tracks in the top 954 (total songs in the data set) with 34 tracks. And highest mean and median of streams in total. 
