@@ -3,7 +3,7 @@
 Fifth project in the TripleTen Business Intelligence Analytics Program. Project designed to showcase skills learned for Tableau Story Telling. The purpose was to prepare an analysis for the CEO of Superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders
 
 Tableau Public Share Link: <a href='https://public.tableau.com/views/Book1WIP1_3/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a> 
-Storytelling video Pulic Share Link: <a href='https://drive.google.com/file/d/1bu5O238oGbpkeBAUuo-MS3b_BgM9gSUC/view?usp=sharing' target=_blank><u>here</u>.</a>
+Storytelling Video Pulic Share Link: <a href='https://drive.google.com/file/d/1bu5O238oGbpkeBAUuo-MS3b_BgM9gSUC/view?usp=sharing' target=_blank><u>here</u>.</a>
 
 ### Table of Contents
 | File Number | Title | Description |
