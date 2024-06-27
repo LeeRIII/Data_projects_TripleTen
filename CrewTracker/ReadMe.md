@@ -31,21 +31,22 @@ CrewTracker Software's Microsoft SQL Database (CREWAI and its Dummy Database Sno
 
 ### Process:
 First Responder:
-  1) Connect to CrewTracker Workstation via Remote Desktop Connection.
+	1) Connect to CrewTracker Workstation via Remote Desktop Connection.
 	2) Screenshot/grab Crystal Report Expected Layout.
 	3) Screenshot/grab Crystal Reports Field Explorer Details.
 	4) Save the exported PDF view of Crystal Reports.
 	5) Copy SQL Query from Crystal reports.
 	6) Copy formula field SQL parts and any linked Sub-Reports.
-
+	7) Upload files into appropriate google drive
 Peer Reviewer:
-  1️) Make sure you can open the Power BI file and determine that it looks more or less like the original Crystal Report
-  2️) Check SQL Query for accuracy.  
-  3️) Check all formula fields have been converted to calculated fields or measures in PowerBI. 
-  4️) Check for completeness and the report is achieving the original purpose.
+	1️) X-Reference original SAP Crystal report template with Pbix file template.
+	2️) Check SQL Query for accuracy.  
+	3️) Check all formula fields have been converted to calculated fields or measures in PowerBI. 
+	4️) Check for completeness and the report is achieving the original purpose, and appropriate output.
 
 ### Results:
-Post externship, CrewTracker was able to move from SAP Crystal Reports, a legacy reporting and dashboard tool, dependent on remote connection. We were convert all report data to Power BI dashboards accessible by cloud. This modern platform allows for more user-friendly and interactive dashboards, facilitating deeper data insights. By providing a more intuitive reporting system, CrewTracker will empower its clients to gain a clearer understanding of their data, ultimately leading to improved decision-making and potentially higher client satisfaction. Estimated 4 weeks of works alleviated from CrewTracker personnel. 
+Post externship, CrewTracker was able to migrate SAP Crystal Reports, a legacy reporting and dashboard tool, dependent on remote connection. We were able convert all report data to Power BI dashboards now accessible by cloud. This modernization allows for more user-friendly and interactive dashboards, facilitating deeper data insights. By providing a more intuitive reporting system, CrewTracker will empower its clients to gain a clearer understanding of their data, ultimately leading to improved decision-making and potentially higher client satisfaction.
+Estimated 4 weeks of works alleviated from CrewTracker personnel. 
 
 ### Personal Stats:
 - As a First Responder I successfully Cataloged Crystal Reports = 35/43 assigned reports. 8 reports were deemed redundant or obsolete. 
