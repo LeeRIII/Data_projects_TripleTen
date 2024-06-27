@@ -17,7 +17,6 @@ Tableau Public can be found <a href='https://public.tableau.com/views/TTFinalPro
 | ----------- |----------- |
 | DATA | Describes the source of data, included files, tables, and fields. |
 | Description | Describes the final product's purpose, software, format, and included visuals. |
-| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | Process | A general outline of how this project formed from start to finish. |
 | Findings | Insights learned from the data analysis. |
 
