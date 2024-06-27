@@ -32,3 +32,4 @@ The data was one Excel spreadsheet file provided by TripleTen:
 - Includes data analysis, charts, and dashboard.
 
 ### Findings:
+- <a href='https://github.com/LeeRIII/Data_projects_TripleTen/blob/main/Data%20Visualization/Findings.txt' target=_blank><u>here</u>.</a>
