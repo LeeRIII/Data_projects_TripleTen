@@ -1,0 +1,33 @@
+1. Profits & Losses
+  a. Biggest profit centers (2, Sub-category and Segment: Type of Product vs Type of customer)
+    i. Consumer Copiers
+    ii. Consumer Phones
+  b. Biggest loss-makers
+    i. Consumer Tables
+    ii. Consumer Bookcases
+  c. Copiers, Phones, and Accessories are the biggest profit centers.
+  d. Tables and Bookcases should be discontinued as they are heavy loss-makers.
+
+2. Advertising
+  a. Highest performing States and months
+    i. New York in November
+      1. Recommended advertising budget: $3258.
+    ii. California in December
+      1. Recommended advertising budget: $2448.
+    iii. Washington in March
+      1. Recommended advertising budget: $1998.
+
+3. Returned Items
+  a. 100% Return rate for following items:
+    i. Boston... Pencil Sharpener
+    ii. Bush Saratoga Collection... Bookcase
+    iii. Global Enterprise... Swivel Chair
+    iv. Penpower... Card Scanner
+    v. Xerox 20
+
+4. Returned items by Customer type
+  a. Consumer customers have highest return rate at 26.59%
+
+5. Average Profit vs Average Return by product Sub-Category
+  a. Superstore should do away with Tables as they are loss-leaders and the 2nd highest refund rate
+  b. Copiers are biggest profit centers and posses the 6th lowest refund rate
