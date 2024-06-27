@@ -38,6 +38,7 @@ First Responder:
 - Copy SQL Query from Crystal reports.
 - Copy formula field SQL parts and any linked Sub-Reports.
 - Upload files into appropriate google drive
+
 Peer Reviewer:
 - X-Reference original SAP Crystal report template with Pbix file template.
 - Check SQL Query for accuracy.  
