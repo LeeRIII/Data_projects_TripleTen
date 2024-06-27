@@ -1,4 +1,4 @@
-# File Title: Zomato.TB.pbix
+# File Title: TT Final Project 1.2 WIP.twbx
 
 Final project for the TripleTen Business Intelligence Analytics Program. Independent project designed to showcase skills learned learned throughout the TripleTen Program. The purpose was to perform a Customer Segmentation Analysis using Tableau
 
