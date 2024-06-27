@@ -2,7 +2,7 @@
 
 Fourth project completed in the TripleTen Business Intelligence Analytics Program. Project designed to showcase skills learned Tableau Visualization. The purpose was to consultant the company by reviewing the store’s operations and increase its profitability to avoid bankruptcy.
 
-Tableau Public Share Link: <a href='https://public.tableau.com/views/Book1WIP1_3/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a> 
+Tableau Public Share Link: <a href='https://public.tableau.com/views/LRIIISprint4WIP/ProfitsLosses?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a> 
 
 ### Table of Contents
 | File Number | Title | Description |
