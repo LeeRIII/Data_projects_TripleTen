@@ -5,7 +5,8 @@ Externship project after graduating from TripleTen Business Intelligence Analyti
 | :-----------: | ----------- |----------- |
 | 1 | [Externship Cert.pdf](https://drive.google.com/file/d/15_s01TsxIJxpmvOE-WSa_j7XnXoUS0Vu/view?usp=sharing) | Certificate of Proof for completion of the externship while meeting or exceeding requirements. |
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 3 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/CrewTracker/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen and CrewTracker. |
+| 3 | [Slidedeck](https://drive.google.com/file/d/1DntVSDzeo581_aFsiMkJeEz-kLBNZO4Y/view?usp=sharing) | Visual portfolio of workflow and process, with captions, showing ClickUp activity, SAP report, Successful BI Conversion |
+| 4 | [Requirements.txt](https://github.com/LeeRIII/Data_projects_TripleTen/blob/main/CrewTracker/Requirements.txt) | .txt file with the provided project requirements as provided by TripleTen and CrewTracker. |
 
 | Section Title | Description |
 | ----------- |----------- |
@@ -16,24 +17,23 @@ Externship project after graduating from TripleTen Business Intelligence Analyti
 | Results | How CrewTracker benefited from this externship. |
 | Personal Stats | My contribution to the externship. |
 
-
 ### Data
 CrewTracker Software's Microsoft SQL Database (CREWAI and its Dummy Database SnowTracker) on Azure Cloud (anonymized data).
 -Large Database with 97 total tables with high-level relationships.
 
 ### Description:
-- 172 Crystal Reports requested for conversion.
+- 171 Crystal Reports requested for conversion.
     - All Crystal reports were cataloged for future Externships/Crewtrackers Analyst Team.
     - 18 Power BI Reports completed including Merge Reports.
       
-- First Responder (5 members): Extract data from Crystal Reports.
+- First Responder Team (5 members, including myself): Extract data from Crystal Reports.
 - Peer Reviewer - Review and validate Power BI reports.
 - Power BI Team - Convert & consolidate reports, and design interactive dashboards with longevity.
 
 ### Assumptions:
 - Reports on the initial list that could not be found on the workstation were no longer needed and listed as "File Not Found"
-- If a Crystal Report could not open, it needed to be rerouted to a dummy server for this Externship.
-- Each Crystal report needed a 1-1 conversation into a Powwer BI Dashboard. However, as our experience in the conversation process grew this requirement was adjusted for comfort level and we were allowed to create merged reports based on a similarity map.
+- If a Crystal Report could not open, it needed to be rerouted to a dummy server for this Externship. Or was deemed obsolete upon further investigation.
+- Initially each Crystal report needed a 1-1 conversation into a Powwer BI Dashboard. As externship progressed and experience/workflow improved, the conversation process expanded to create merged reports, reducing bloat.
 
 ### Process:
 First Responder:
@@ -46,20 +46,13 @@ First Responder:
 
 Peer Reviewer:
   1️) Make sure you can open the Power BI file and determine that it looks more or less like the original Crystal Report
-  2️) Check the SQL Query is there and it looks like the original.  
+  2️) Check SQL Query for accuracy.  
   3️) Check all formula fields have been converted to calculated fields or measures in PowerBI. 
   4️) Check for completeness and the report is achieving the original purpose.
 
-Call List Merge Report:
-  1) Merge source SQL Queries into one SQL Direct Query.
-  2) Build Power BI Dashboard according to Call List Reports layout expectations. Using best judgment for variances between the three reports.
-  3) Convert Crystal Report Formula Fields into Power BI DAX as Measures and Calculations, ensuring the formatting allows for various potential future uses.
-
 ### Results:
-Through my externship, CrewTracker was able to move from Crystal Reports, a legacy reporting tool that can be cumbersome for complex data analysis. We were able to initiate efforts to convert all report data to Power BI. This modern platform allows for more user-friendly and interactive dashboards, facilitating deeper data insights. By providing a more intuitive reporting system, CrewTracker will empower its clients to gain a clearer understanding of their data, ultimately leading to improved decision-making and potentially higher client satisfaction.
+Post externship, CrewTracker was able to move from SAP Crystal Reports, a legacy reporting and dashboard tool, dependent on remote connection. We were convert all report data to Power BI dashboards accessible by cloud. This modern platform allows for more user-friendly and interactive dashboards, facilitating deeper data insights. By providing a more intuitive reporting system, CrewTracker will empower its clients to gain a clearer understanding of their data, ultimately leading to improved decision-making and potentially higher client satisfaction. Estimated 4 weeks of works alleviated from CrewTracker personnel. 
 
 ### Personal Stats:
-- As a First Responder I attempted to Catalog = 91 Crystal Reports
-- Successful Cataloged Crystal Reports = 73 (the remaining files were "File Not Found")
-- Power BI conversations Peer Reviewed = 9
-- Power BI Report Completed = 3 (Merged Report into 1)
+- As a First Responder I successfully Cataloged Crystal Reports = 35/43 assigned reports. 8 reports were deemed redundant or obsolete. 
+- Power BI conversations Peer Reviewed = 8
