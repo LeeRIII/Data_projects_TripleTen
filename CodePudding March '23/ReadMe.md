@@ -24,7 +24,7 @@ Tableau Public link <a href='https://public.tableau.com/views/HNATTCP24/Home?:la
 
 ### Data
 The data was one .csv file provided by TripleTen
-- `'spotify-2023.csv'`: Original data. 1 Table with 23 Fields. Fields kept after data cleaning:
+- `'spotify-2023.csv'`: Original data. 1 Table with 24 Fields. 
 
 ### Description:
 - 1 Tableau Story made from 9 Dashboards and 11 visuals and 8 KPIs
