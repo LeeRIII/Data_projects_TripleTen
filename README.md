@@ -1,7 +1,7 @@
 # TripleTen_projects
 Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
-| Project number | Title | Description |
+| Project number | Title | Description | 
 | :----------------------: | ---------------------- | ---------------------- |
 | 1 | [AirBnB Vacation Rental Analysis Manhattan](https://github.com/LeeRIII/Data_projects_TripleTen/tree/main/AirBnB%20Vacation%20Rental%20Market) | Task to help a client analyze the vacation rental market for intent profitable investment opportunities using G-Suite/MS Excel | 
 | 2 | [Business Analytics Project](https://github.com/LeeRIII/Data_projects_TripleTen/tree/main/Business%20Analytics%20Project%20E-Commerce) | The project task was to prepare a report that gives insight into user interaction, conversion, and retention for 'Dataset Store' using G-Suite/MS Excel | 
