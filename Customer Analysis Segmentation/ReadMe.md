@@ -2,7 +2,7 @@
 
 Final project for the TripleTen Business Intelligence Analytics Program. Independent project designed to showcase skills learned learned throughout the TripleTen Program. The purpose was to perform a Customer Segmentation Analysis using Tableau
 
-Loom Video Overview can be found <a href='https://www.loom.com/share/d29a87fb973846829433f6dcf9a91a5b?sid=add8ee32-42ac-48d2-9af6-049f9e8dac77' target=_blank><u>here</u>. </a>
+Tableau Public can be found <a href='https://public.tableau.com/views/TTFinalProject1_2WIP/CustomerAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>. </a>
 
 ### Table of Contents
 | File Number | Title | Description |
