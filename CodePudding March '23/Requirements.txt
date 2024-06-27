@@ -4,7 +4,7 @@ Goal:
 Craft a captivating story using provided datasets and impactful visualizations.
 
 Challenge: 
-Collaborate with your team to create a data-driven visual story (96 hours).
+Collaborate with your team to create a data-driven visual story.
 
 Software: 
 Tableau.
