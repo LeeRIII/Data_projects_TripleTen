@@ -1,4 +1,4 @@
-# File Title: Book1 WIP 1.3.twbx
+# File Title: LRIII Sprint 4 WIP.twbx
 
 Fourth project completed in the TripleTen Business Intelligence Analytics Program. Project designed to showcase skills learned Tableau Visualization. The purpose was to consultant the company by reviewing the store’s operations and increase its profitability to avoid bankruptcy.
 
