@@ -3,7 +3,7 @@ Externship project after graduating from TripleTen Business Intelligence Analyti
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Externship Cert.pdf](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/CrewTracker/Externship%20Cert.pdf) | Certificate of Proof for completion of the externship while meeting or exceeding requirements. |
+| 1 | [Externship Cert.pdf](https://drive.google.com/file/d/15_s01TsxIJxpmvOE-WSa_j7XnXoUS0Vu/view?usp=sharing) | Certificate of Proof for completion of the externship while meeting or exceeding requirements. |
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 3 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/CrewTracker/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen and CrewTracker. |
 
