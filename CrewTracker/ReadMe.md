@@ -31,18 +31,18 @@ CrewTracker Software's Microsoft SQL Database (CREWAI and its Dummy Database Sno
 
 ### Process:
 First Responder:
-	1) Connect to CrewTracker Workstation via Remote Desktop Connection.
-	2) Screenshot/grab Crystal Report Expected Layout.
-	3) Screenshot/grab Crystal Reports Field Explorer Details.
-	4) Save the exported PDF view of Crystal Reports.
-	5) Copy SQL Query from Crystal reports.
-	6) Copy formula field SQL parts and any linked Sub-Reports.
-	7) Upload files into appropriate google drive
+- Connect to CrewTracker Workstation via Remote Desktop Connection.
+- Screenshot/grab Crystal Report Expected Layout.
+- Screenshot/grab Crystal Reports Field Explorer Details.
+- Save the exported PDF view of Crystal Reports.
+- Copy SQL Query from Crystal reports.
+- Copy formula field SQL parts and any linked Sub-Reports.
+- Upload files into appropriate google drive
 Peer Reviewer:
-	1️) X-Reference original SAP Crystal report template with Pbix file template.
-	2️) Check SQL Query for accuracy.  
-	3️) Check all formula fields have been converted to calculated fields or measures in PowerBI. 
-	4️) Check for completeness and the report is achieving the original purpose, and appropriate output.
+- X-Reference original SAP Crystal report template with Pbix file template.
+- Check SQL Query for accuracy.  
+- Check all formula fields have been converted to calculated fields or measures in PowerBI. 
+- Check for completeness and the report is achieving the original purpose, and appropriate output.
 
 ### Results:
 Post externship, CrewTracker was able to migrate SAP Crystal Reports, a legacy reporting and dashboard tool, dependent on remote connection. We were able convert all report data to Power BI dashboards now accessible by cloud. This modernization allows for more user-friendly and interactive dashboards, facilitating deeper data insights. By providing a more intuitive reporting system, CrewTracker will empower its clients to gain a clearer understanding of their data, ultimately leading to improved decision-making and potentially higher client satisfaction.
