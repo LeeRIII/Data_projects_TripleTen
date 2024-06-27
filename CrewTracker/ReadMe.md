@@ -46,8 +46,11 @@ Peer Reviewer:
 - Check for completeness and the report is achieving the original purpose, and appropriate output.
 
 ### Results:
-Post externship, CrewTracker was able to migrate SAP Crystal Reports, a legacy reporting and dashboard tool, dependent on remote connection. We were able convert all report data to Power BI dashboards now accessible by cloud. This modernization allows for more user-friendly and interactive dashboards, facilitating deeper data insights. By providing a more intuitive reporting system, CrewTracker will empower its clients to gain a clearer understanding of their data, ultimately leading to improved decision-making and potentially higher client satisfaction.
-Estimated 4 weeks of works alleviated from CrewTracker personnel. 
+- Post externship, CrewTracker was able to migrate SAP Crystal Reports, a legacy reporting and dashboard tool, dependent on remote connection.
+- All reports successfully converted into PowerBI ll now accessible by cloud.
+- Modernization allows for more user-friendly and interactive dashboards, facilitating deeper data insights.
+- CrewTracker now empowers its clients to gain a clearer understanding of their data, ultimately leading to improved decision-making and potentially higher client satisfaction.
+- Estimated 4 weeks of works alleviated from CrewTracker personnel. 
 
 ### Personal Stats:
 - As a First Responder I successfully Cataloged Crystal Reports = 35/43 assigned reports. 8 reports were deemed redundant or obsolete. 
