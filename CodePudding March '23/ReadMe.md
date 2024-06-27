@@ -8,7 +8,7 @@ Tableau Public link <a href='https://public.tableau.com/views/HNATTCP24/Home?:la
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Animated_Movies.twbx](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Animation%20Movies/Animated_Movies.twbx) | The Tableau Workbook file with all interactive Visualizations, Dashboards, and Story. |
+| 1 | [HNA TT CP '24.twbx](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Animation%20Movies/Animated_Movies.twbx) | The Tableau Workbook file with all interactive Visualizations, Dashboards, and Story. |
 | 2 | [Animation_Movies.csv](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Animation%20Movies/Animation_Movies.csv) | Original spreadsheet file in csv format provided at the start of the competition. |
 | 3 | [March_Code_Pudding_Data_Cleaning_..ipynb](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Animation%20Movies/March_Code_Pudding_Data_Cleaning_.ipynb) | Jupiter Notebook file using Python for Data cleaning and EDA performed at the start of the analysis. |
 | 4 | README.md | This current page, with all relevant information about the project, just past the Table of contents. |
