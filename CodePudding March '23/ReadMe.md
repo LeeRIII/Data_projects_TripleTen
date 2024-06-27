@@ -3,7 +3,7 @@
 This was a Code Jam Competition project that took place in March '24 after completing the TripleTen Business Intelligence Analytics Program. The purpose was to create a visually compelling story from a provided dataset in 4 days with Tableau and collaboration with assigned team members. Our team name was Horizon Nexus Alliance. 
 
 Team Horizon Nexus Alliance's recorded presentation can be found <a href='https://www.youtube.com/watch?v=rWTYgq_3ER4' target=_blank><u>here</u>.</a>
-Tableau Public link <a href='https://public.tableau.com/views/Animated_Movies/AnimatedMoviesBringingtheWorldTogether?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a>
+Tableau Public link <a href='https://public.tableau.com/views/HNATTCP24/Home?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a>
 
 ### Table of Contents
 | File Number | Title | Description |
