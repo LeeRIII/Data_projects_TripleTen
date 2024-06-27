@@ -12,10 +12,9 @@ Externship project after graduating from TripleTen Business Intelligence Analyti
 | ----------- |----------- |
 | DATA | Describes the source of data. |
 | Description | Describes the goal and end results of the externship. |
-| Assumptions | Describes assumptions to include given by TripleTen or CrewTracker. |
 | Process | A general outline of how this project formed from start to finish. |
 | Results | How CrewTracker benefited from this externship. |
-| Personal Stats | My contribution to the externship. |
+| Personal Stats | My personal contributions. |
 
 ### Data
 CrewTracker Software's Microsoft SQL Database (CREWAI and its Dummy Database SnowTracker) on Azure Cloud (anonymized data).
@@ -28,12 +27,7 @@ CrewTracker Software's Microsoft SQL Database (CREWAI and its Dummy Database Sno
       
 - First Responder Team (5 members, including myself): Extract data from Crystal Reports.
 - Peer Reviewer - Review and validate Power BI reports.
-- Power BI Team - Convert & consolidate reports, and design interactive dashboards with longevity.
-
-### Assumptions:
-- Reports on the initial list that could not be found on the workstation were no longer needed and listed as "File Not Found"
-- If a Crystal Report could not open, it needed to be rerouted to a dummy server for this Externship. Or was deemed obsolete upon further investigation.
-- Initially each Crystal report needed a 1-1 conversation into a Powwer BI Dashboard. As externship progressed and experience/workflow improved, the conversation process expanded to create merged reports, reducing bloat.
+- Power BI Conversion Team - Convert & consolidate reports, and design interactive dashboards with longevity.
 
 ### Process:
 First Responder:
