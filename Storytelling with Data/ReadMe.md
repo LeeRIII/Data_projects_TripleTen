@@ -17,10 +17,7 @@ Storytelling Video Pulic Share Link: <a href='https://drive.google.com/file/d/1b
 | ----------- |----------- |
 | DATA | Describes the source of data, included files, tables, and fields. |
 | Description | Describes the final product's purpose, software, format, and included visuals. |
-| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| Process | A general outline of how this project formed from start to finish. |
 | Findings | Insights learned from the data analysis. |
-| Notes | Notes sent with the project to the reviewer for more context about presentation choices. |
 
 ### Data
 The data was one Excel spreadsheet file provided by TripleTen:
@@ -29,28 +26,12 @@ The data was one Excel spreadsheet file provided by TripleTen:
     - `'returns'`: details all fields for each returned item
 
 ### Description:
-- 9-page Tableau Visualization and Presentation
+- 8 Tableau worksheets, 1 Dashboard, and 1 Story
 - Includes data analysis, charts, dashboard, and stories
 
-### Assumptions:
-- Profits from sales are totaling in the negative.	
-- There is one or more causes for negative profits directly related to orders and returns.
-- The operations department will need to make changes.
-
-### Process:
-I first joined the sheets.
-Then I analyzed data using visualizations to determine what is causing returns.
-I built a dashboard for monitoring returns.
-Lastly, I created a Tableau story to present my findings.
-
 ### Findings:
-1. Returned purchases are the leading cause of declining profits at Superstore.
-2. There is a positive correlation between sales and returns.
-3. The technology category has the largest return rate.
-4. There are several customers who have a return rate of 100%.
-5. Each state had different rates of return for different sub-categories.
-6. Orders made throughout the year had higher return rates depending on the month.
-7. Return rates do not correlate with the amount of product sold, some of the lowest-selling products had a return rate of 100%.
-
-### Notes for Reviewer:
-As requested I provided 3 potential LoFi mockups and a template image of the dashboard with empty containers in the ZIP file and a stories draft in the Tableau file.
+1. "While Envelopes have the highest return rate, Copiers have the highest loss of profit. We should be considering the total cost of returns when optimizing our advertising strategy."
+2. "The States with the highest number of returns have different rates of return by shipping method. Consistent returns come from Standard shipping, while first class carries the highest return rate in the 4th quarter."
+3. "Standard Shipping had the highest # of orders, but also the highest # of returns." 
+4. 'California had the highest return cost of all states"
+5. "Standard Class shipping is not succesful in California as it is the leading pair in return cost."
