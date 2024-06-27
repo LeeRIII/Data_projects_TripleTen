@@ -8,7 +8,7 @@ Storytelling Video Pulic Share Link: <a href='https://drive.google.com/file/d/1b
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [DataSet - SuperStore.xls](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/SuperStore%20Returns/DataSet%20-%20SuperStore.xls) | The original data file provided by TripleTen that was used in this projects analysis. |
+| 1 | [Superstore.xls](https://docs.google.com/spreadsheets/d/1r4VHg-MqHzTHl9eAQU7AyDrynMohzelE_cCxuPpPzr4/edit?usp=sharing) | Original data file provided by TripleTen used in this project. |
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 3 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/SuperStore%20Returns/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 | 4 | [Reviewer Grade.png](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/SuperStore%20Returns/Reviewer%20Grade.png) | This is the comments left by my project reviewer. |
