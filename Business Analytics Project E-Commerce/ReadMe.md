@@ -9,8 +9,8 @@ Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1
 | :-----------: | ----------- |----------- |
 | 1 | [Business Analytics Project.csv](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/E-commerce%20Company/Business%20Analytics%20Project.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 3 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/E-commerce%20Company/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
-| 4 | [ReviewerGrade3.png](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/E-commerce%20Company/ReviewerGrade3.png) | This is the comments left by my project reviewer, number corresponds with project number. |
+| 3 | [Requirements.txt](https://github.com/LeeRIII/Data_projects_TripleTen/blob/main/Business%20Analytics%20Project%20E-Commerce/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 4 | [ReviewerGrade3.png](https://drive.google.com/file/d/1apyEbT7Gtkg_ZBJAB5fg-QOmNYthKh3O/view?usp=sharing) | This is the comments left by my project reviewer. |
 
 | Section Title | Description |
 | ----------- |----------- |
@@ -34,7 +34,7 @@ The data was one Google spreadsheet file provided by TripleTen
     - `'Executive Summary`: Preformated yet empty executive summary sheet
 
 ### Description:
-- 8 page spreadsheet
+- 10 page spreadsheet
 - Includes raw data (Hidden), processed data, data analysis, and pivot tables.
 
 ### Assumptions:
@@ -43,14 +43,14 @@ The data was one Google spreadsheet file provided by TripleTen
 - The provided data format (columns, data types) is correct and consistent.
 
 ### Process:
-I first explored, filtered, and cleaned the data.
-Then I created and built a conversion funnel.
-I prepared data for cohort analysis.
+Explored, filtered, and cleaned the data.
+Created and built a conversion funnel.
+Prepared data for cohort analysis.
 Calculated retention rates.
-Lastly, I finalized formatting and documentation for the client's readability.
+Finalized formatting and documentation for the client's readability, including auto change log and manual change log.
 
 ### Findings:
 | Results | Synopsis |
 | :-----------: | ----------- |
-| Conversion Funnel | The total conversion rate from view to purchase was 10%. While the view-to-shopping cart conversion rate was 29% | 
-| Retention Rates | Retention rates for the 2020-09 cohort group after the first month were only 13%; by the 4th month, it was down to 3% | 
+| Conversion Funnel | 10.34% of customers make purchases | 
+| Retention Rates | Only 3.43% of customers return through the first month on average | 
