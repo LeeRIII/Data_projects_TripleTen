@@ -7,7 +7,7 @@ Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Business Analytics Project.csv](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/E-commerce%20Company/Business%20Analytics%20Project.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
+| 1 | [Business Analytics Project.csv](https://docs.google.com/spreadsheets/d/1yuavBZ4OYYUD1opH-dq0d6nejREDy8f0ozumT9-yEuo/edit#gid=0) | The original data file provided by TripleTen that was used in the analysis of this project. |
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 3 | [Requirements.txt](https://github.com/LeeRIII/Data_projects_TripleTen/blob/main/Business%20Analytics%20Project%20E-Commerce/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 | 4 | [ReviewerGrade3.png](https://drive.google.com/file/d/1apyEbT7Gtkg_ZBJAB5fg-QOmNYthKh3O/view?usp=sharing) | This is the comments left by my project reviewer. |
