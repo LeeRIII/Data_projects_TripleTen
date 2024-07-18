@@ -5,7 +5,7 @@ Externship project after graduating from TripleTen Business Intelligence Analyti
 | :-----------: | ----------- |----------- |
 | 1 | [Externship Cert.pdf](https://drive.google.com/file/d/15_s01TsxIJxpmvOE-WSa_j7XnXoUS0Vu/view?usp=sharing) | Certificate of Proof for completion of the externship while meeting or exceeding requirements. |
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 3 | [Slidedeck](https://drive.google.com/file/d/1DntVSDzeo581_aFsiMkJeEz-kLBNZO4Y/view?usp=sharing) | Visual portfolio of workflow and process, with captions, showing ClickUp activity, SAP report, Successful BI Conversion |
+| 3 | [Slidedeck](https://drive.google.com/file/d/1f904fX3lsDnRw5eYM8ePPpfEYRlHvy0-/view?usp=sharing) | Visual portfolio of workflow and process, with captions, showing ClickUp activity, SAP report, Successful BI Conversion. SQL Query on slide 3 |
 | 4 | [Requirements.txt](https://github.com/LeeRIII/Data_projects_TripleTen/blob/main/CrewTracker/Requirements.txt) | .txt file with the provided project requirements as provided by TripleTen and CrewTracker. |
 
 | Section Title | Description |
