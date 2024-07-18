@@ -9,7 +9,8 @@ Projects Google Speadsheet can be found <a href='https://docs.google.com/spreads
 | :-----------: | ----------- |----------- |
 | 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 2 | [Requirements.txt](https://github.com/LeeRIII/Data_projects_TripleTen/blob/main/AirBnB%20Vacation%20Rental%20Market/Project%20Requirements) | A simple .txt file with the provided project requirements as provided by TripleTen. |
-| 3 | [Sprint 1 Grade.png](https://drive.google.com/file/d/1A7r-yW__2tgi98kLLCsmdxz8T52KhnBp/view?usp=sharing) | This is a .png file showing the comments left by my project reviewer. |
+| 3 | [Project](https://docs.google.com/spreadsheets/d/1vZ459nm71YDjYJJ18hkDLGQZ1QpULHnZ4uHlkKYABck/edit?usp=sharing) | Project file that includes assumptions, findings, raw data, and change logs. |
+| 4 | [Sprint 1 Grade.png](https://drive.google.com/file/d/1A7r-yW__2tgi98kLLCsmdxz8T52KhnBp/view?usp=sharing) | This is a .png file showing the comments left by my project reviewer. |
 
 | Section Title | Description |
 | ----------- |----------- |
