@@ -4,6 +4,8 @@ The third project that I worked on in the TripleTen Business Intelligence Analyt
 
 Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/10PqOonkWAtGhEy_ziaRHj7QoUS7eeK3G_PTsVhaDjxg/edit?usp=sharing' target=_blank><u>here</u>.</a>
 
+[<img src="https://github.com/LeeRIII/Data_projects_TripleTen/blob/main/Images/e-commerce.png" alt="Cohort Analysis">](https://docs.google.com/spreadsheets/d/1vZ459nm71YDjYJJ18hkDLGQZ1QpULHnZ4uHlkKYABck/edit?usp=sharing)
+
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
