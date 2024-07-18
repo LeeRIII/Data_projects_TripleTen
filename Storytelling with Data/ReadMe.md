@@ -5,6 +5,10 @@ Fifth project in the TripleTen Business Intelligence Analytics Program. Project 
 Tableau Public Share Link: <a href='https://public.tableau.com/views/Book1WIP1_3/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a> 
 Storytelling Video Pulic Share Link: <a href='https://drive.google.com/file/d/1bu5O238oGbpkeBAUuo-MS3b_BgM9gSUC/view?usp=sharing' target=_blank><u>here</u>.</a>
 
+[<img src="https://github.com/LeeRIII/Data_projects_TripleTen/blob/main/Images/Storytelling.png" alt="Storytelling">](https://public.tableau.com/views/Book1WIP1_3/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+[<img src="https://github.com/LeeRIII/Data_projects_TripleTen/blob/main/Images/Storytelling%202.png" alt="Storytelling Video">](https://drive.google.com/file/d/1bu5O238oGbpkeBAUuo-MS3b_BgM9gSUC/view?usp=sharing)
+
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
