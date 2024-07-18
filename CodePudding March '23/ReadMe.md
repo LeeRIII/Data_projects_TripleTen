@@ -5,6 +5,8 @@ This was a Code Jam Competition project that took place in March '24 after compl
 Team Horizon Nexus Alliance's recorded presentation can be found <a href='https://www.youtube.com/watch?v=rWTYgq_3ER4' target=_blank><u>here</u>.</a>
 Tableau Public link <a href='https://public.tableau.com/views/HNATTCP24/Home?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a>
 
+[<img src="https://github.com/LeeRIII/Data_projects_TripleTen/blob/main/Images/spotify.png" alt="Spotify">](https://public.tableau.com/app/profile/lee.redfearn/viz/HNATTCP24/Home)
+
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
