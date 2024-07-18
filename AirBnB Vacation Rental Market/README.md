@@ -3,6 +3,7 @@
 First project in the TripleTen Business Intelligence Analytics Program. Independent project designed to showcase skills learned for Advanced Spreadsheets.
 
 Projects Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1vZ459nm71YDjYJJ18hkDLGQZ1QpULHnZ4uHlkKYABck/edit?usp=sharing' target=_blank><u>here</u>.</a>
+
 [<img src="https://github.com/LeeRIII/Data_projects_TripleTen/blob/main/Images/pivot_tables.png" alt="Pivot Tables">](https://docs.google.com/spreadsheets/d/1vZ459nm71YDjYJJ18hkDLGQZ1QpULHnZ4uHlkKYABck/edit?usp=sharing)
 
 ### Table of Contents
