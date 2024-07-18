@@ -4,6 +4,8 @@ Final project for the TripleTen Business Intelligence Analytics Program. Indepen
 
 Tableau Public can be found <a href='https://public.tableau.com/views/TTFinalProject1_2WIP/CustomerAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>. </a>
 
+[<img src="https://github.com/LeeRIII/Data_projects_TripleTen/blob/main/Images/customer_segmentation.png" alt="Customer_segmentation">](https://public.tableau.com/views/TTFinalProject1_2WIP/CustomerAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
