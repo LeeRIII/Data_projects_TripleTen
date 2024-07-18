@@ -4,6 +4,8 @@ Fourth project completed in the TripleTen Business Intelligence Analytics Progra
 
 Tableau Public Share Link: <a href='https://public.tableau.com/views/LRIIISprint4WIP/ProfitsLosses?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a> 
 
+[<img src="https://github.com/LeeRIII/Data_projects_TripleTen/blob/main/Images/data_visualization.png" alt="Data Visualization">](https://public.tableau.com/views/LRIIISprint4WIP/ProfitsLosses?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
