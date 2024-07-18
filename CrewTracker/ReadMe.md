@@ -1,5 +1,7 @@
 Externship project after graduating from TripleTen Business Intelligence Analytics Program. It was a team project designed to help a real-world company, CrewTracker Software, modernize its reporting system by migrating over 170 SAP Crystal Reports to interactive Power BI dashboards, improving data visualization and user experience for CrewTracker's clients. Due to sensitivity of the data and NDA signed, many artifacts will contain redacted images and lines of data, to protect company and client information.
 
+[<img src="https://github.com/LeeRIII/Data_projects_TripleTen/blob/main/Images/SQL%20Query.png" alt="SQL_Query">](https://drive.google.com/file/d/1f904fX3lsDnRw5eYM8ePPpfEYRlHvy0-/view?usp=sharing)
+
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
